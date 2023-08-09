@@ -1,5 +1,4 @@
-                                                                                                                                                animal = "cat"
-animal_sounds = {
+animal = "cat"animal_sounds = {
     "cat": "Meow",
     "dog": "Woof",
     "cow": "Moo",
